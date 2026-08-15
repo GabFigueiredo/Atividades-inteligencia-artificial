@@ -1,1 +1,34 @@
-# Exercicios_Python_GabrielFigueiredoDeAndrade_6C_Noturno
+# 🐍 50 Exercícios de Python
+
+Repositório com **50 exercícios de Python** desenvolvidos com o objetivo de praticar e reforçar os fundamentos da linguagem.
+
+Os exercícios abordam conceitos como:
+
+* Variáveis e tipos de dados
+* Entrada e saída de dados
+* Condicionais
+* Laços de repetição
+* Listas e dicionários
+* Funções
+* Strings
+* Algoritmos de ordenação e busca
+* Matrizes
+* Estruturas de dados
+* Bibliotecas Python
+
+## 📚 Exercícios
+
+Os exercícios foram desenvolvidos progressivamente, começando por conceitos básicos e avançando para problemas que envolvem lógica e algoritmos.
+
+## 🛠️ Tecnologias
+
+* Python 3
+* Google Colab
+
+## 🎯 Objetivo
+
+Praticar programação em Python e desenvolver **raciocínio lógico, resolução de problemas e familiaridade com a linguagem**.
+
+---
+
+Desenvolvido por **Gabriel Figueiredo**.
