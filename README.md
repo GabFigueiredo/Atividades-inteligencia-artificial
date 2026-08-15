@@ -1,0 +1,1 @@
+# Exercicios_Python_GabrielFigueiredoDeAndrade_6C_Noturno
