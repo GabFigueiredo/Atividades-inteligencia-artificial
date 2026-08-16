@@ -10,7 +10,7 @@ Aqui serão armazenados diferentes notebooks, exercícios e projetos realizados 
 
 Exercícios introdutórios de Python para prática de lógica de programação e fundamentos da linguagem.
 
-**[🔗 Atividade 1 - Link](COLOQUE_AQUI_O_LINK_DO_GOOGLE_COLAB)**
+**[🔗 Atividade 1 - Link](https://colab.research.google.com/drive/1jZ8TwUU3ZkafU2XA4ImYc3WUlwjtQ-GN?usp=sharing)**
 
 ## 🛠️ Tecnologias
 
