@@ -16,6 +16,12 @@ Os exercícios abordam conceitos como:
 * Estruturas de dados
 * Bibliotecas Python
 
+
+## 🎯 Objetivo
+
+Praticar programação em Python e desenvolver **raciocínio lógico, resolução de problemas e familiaridade com a linguagem**.
+
+
 ## 📚 Exercícios
 
 Os exercícios foram desenvolvidos progressivamente, começando por conceitos básicos e avançando para problemas que envolvem lógica e algoritmos.
@@ -25,17 +31,13 @@ Os exercícios foram desenvolvidos progressivamente, começando por conceitos b�
 * Python 3
 * Google Colab
 
-## 🎯 Objetivo
-
-Praticar programação em Python e desenvolver **raciocínio lógico, resolução de problemas e familiaridade com a linguagem**.
-
----
-
 ## ▶️ Google Colab
 
 Os exercícios também estão disponíveis no Google Colab:
 
 **[🔗 Acessar Google Colab](https://colab.research.google.com/drive/1jZ8TwUU3ZkafU2XA4ImYc3WUlwjtQ-GN?usp=sharing)**
+
+---
 
 Desenvolvido por **Gabriel Figueiredo**.
 
