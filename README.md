@@ -35,7 +35,7 @@ Praticar programação em Python e desenvolver **raciocínio lógico, resoluçã
 
 Os exercícios também estão disponíveis no Google Colab:
 
-**[🔗 Acessar Google Colab]([GOOGLE-COLAB](https://colab.research.google.com/drive/1jZ8TwUU3ZkafU2XA4ImYc3WUlwjtQ-GN?usp=sharing))**
+**[🔗 Acessar Google Colab](https://colab.research.google.com/drive/1jZ8TwUU3ZkafU2XA4ImYc3WUlwjtQ-GN?usp=sharing)**
 
 Desenvolvido por **Gabriel Figueiredo**.
 
