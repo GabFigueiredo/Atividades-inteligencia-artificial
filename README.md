@@ -1,43 +1,27 @@
-# 🐍 50 Exercícios de Python
+# 🤖 Inteligência Artificial
 
-Repositório com **50 exercícios de Python** desenvolvidos com o objetivo de praticar e reforçar os fundamentos da linguagem.
+Repositório destinado às atividades e conteúdos desenvolvidos durante a disciplina de **Inteligência Artificial**.
 
-Os exercícios abordam conceitos como:
+Aqui serão armazenados diferentes notebooks, exercícios e projetos realizados ao longo da matéria, organizados de acordo com cada atividade.
 
-* Variáveis e tipos de dados
-* Entrada e saída de dados
-* Condicionais
-* Laços de repetição
-* Listas e dicionários
-* Funções
-* Strings
-* Algoritmos de ordenação e busca
-* Matrizes
-* Estruturas de dados
-* Bibliotecas Python
+## 📚 Atividades
 
+### Atividade 1
 
-## 🎯 Objetivo
+Exercícios introdutórios de Python para prática de lógica de programação e fundamentos da linguagem.
 
-Praticar programação em Python e desenvolver **raciocínio lógico, resolução de problemas e familiaridade com a linguagem**.
-
-
-## 📚 Exercícios
-
-Os exercícios foram desenvolvidos progressivamente, começando por conceitos básicos e avançando para problemas que envolvem lógica e algoritmos.
+**[🔗 Atividade 1 - Link](COLOQUE_AQUI_O_LINK_DO_GOOGLE_COLAB)**
 
 ## 🛠️ Tecnologias
 
-* Python 3
+* Python
 * Google Colab
+* Jupyter Notebook
 
-## ▶️ Google Colab
+## 🎯 Objetivo
 
-Os exercícios também estão disponíveis no Google Colab:
-
-**[🔗 Acessar Google Colab](https://colab.research.google.com/drive/1jZ8TwUU3ZkafU2XA4ImYc3WUlwjtQ-GN?usp=sharing)**
+Centralizar as atividades desenvolvidas na disciplina, facilitando a organização, acompanhamento e consulta dos conteúdos e exercícios realizados durante o curso.
 
 ---
 
 Desenvolvido por **Gabriel Figueiredo**.
-
