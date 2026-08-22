@@ -9,8 +9,16 @@ Aqui serão armazenados diferentes notebooks, exercícios e projetos realizados 
 ### Atividade 1
 
 Exercícios introdutórios de Python para prática de lógica de programação e fundamentos da linguagem.
+pasta: aula-1
 
 **[🔗 Atividade 1 - Link](https://colab.research.google.com/drive/1jZ8TwUU3ZkafU2XA4ImYc3WUlwjtQ-GN?usp=sharing)**
+
+### Atividade 2
+
+Exercícios sobre Numpy, Scipy, Pandas e Matplotlib
+pasta: datascience-2
+
+**[🔗 Atividade 2 - Link](https://colab.research.google.com/drive/1WBIggAm41YhW30fs5r8qYZSChuP7CrLZ?usp=sharing)**
 
 ## 🛠️ Tecnologias
 
